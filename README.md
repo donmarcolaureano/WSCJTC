@@ -8,6 +8,8 @@ This database contains information on all certification cases investigated by th
 
 NOTE: Cases that are not closed with a final order finding of committed misconduct are not proof that an officer engaged in misconduct.  
 
+# Tableau Viz
+https://public.tableau.com/app/profile/marco.laureano/viz/WSCJTC/ViolationsByOfficerandEmployer?publish=yes
 
 # Data Dictionary
 Case Number - The reference number for the case.
